@@ -1,0 +1,26 @@
+{
+  "users": [
+    {},
+    { "email": "c", "password": "d" },
+    {},
+    { "email": "c", "password": "d" },
+    {},
+    {},
+    {},
+    {},
+    {},
+    { "email": "", "password": "" },
+    {},
+    { "email": "c", "password": "d" },
+    { "email": "C", "password": "D" },
+    { "email": "ef", "password": "h" },
+    { "email": "galamo" },
+    { "email": "c", "password": "d" },
+    { "email": "dsf", "password": "dsf" },
+    { "email": "dsf", "password": "dsfds" },
+    { "email": "", "password": "" },
+    { "email": "3", "password": "4" },
+    { "email": "fg", "password": "gfd" },
+    { "email": "galamo", "password": "12345" }
+  ]
+}
